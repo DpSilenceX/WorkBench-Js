@@ -1,0 +1,14 @@
+<firma>
+    <abteilung name='Buchhaltung'>
+        <Mitarbeiter name='Lehrmann'></Mitarbeiter>
+    </abteilung>
+    <abteilung name='Produktion'>
+        <Mitarbeiter name='Breitner'></Mitarbeiter>
+        <Mitarbeiter name='Paul'></Mitarbeiter>
+        <Mitarbeiter name='Degen'></Mitarbeiter>
+    </abteilung>
+    <abteilung name='Vertrieb'>
+        <Mitarbeiter name='Schulz'></Mitarbeiter>
+        <Mitarbeiter name='Meier'></Mitarbeiter>
+    </abteilung>
+</firma>
